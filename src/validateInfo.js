@@ -4,7 +4,7 @@ export default function validateInfo(values) {
   if (!values.email) {
     errors.email = 'Email required';
   } else if (!/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/i.test(values.email)) {
-    errors.email = 'Error message';
+    errors.email = `Error message`;
   }
 
   if (!values.password) {
