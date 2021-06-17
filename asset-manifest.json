@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AuthForm/static/css/main.94ec3a4c.chunk.css",
+    "main.js": "/AuthForm/static/js/main.95b2f070.chunk.js",
+    "main.js.map": "/AuthForm/static/js/main.95b2f070.chunk.js.map",
+    "runtime-main.js": "/AuthForm/static/js/runtime-main.53d3cd3e.js",
+    "runtime-main.js.map": "/AuthForm/static/js/runtime-main.53d3cd3e.js.map",
+    "static/js/2.a8701767.chunk.js": "/AuthForm/static/js/2.a8701767.chunk.js",
+    "static/js/2.a8701767.chunk.js.map": "/AuthForm/static/js/2.a8701767.chunk.js.map",
+    "index.html": "/AuthForm/index.html",
+    "static/css/main.94ec3a4c.chunk.css.map": "/AuthForm/static/css/main.94ec3a4c.chunk.css.map",
+    "static/js/2.a8701767.chunk.js.LICENSE.txt": "/AuthForm/static/js/2.a8701767.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/AuthForm/static/media/Microsoft.7017a8f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d3cd3e.js",
+    "static/js/2.a8701767.chunk.js",
+    "static/css/main.94ec3a4c.chunk.css",
+    "static/js/main.95b2f070.chunk.js"
+  ]
+}
