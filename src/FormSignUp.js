@@ -34,7 +34,7 @@ const FormSignUp = ({submitForm}) => {
               error: errors.email,
               success: !errors.email,
             })}
-            type="email"
+            type="text"
             placeholder="Email"
             autoComplete="off"
             name="email"
