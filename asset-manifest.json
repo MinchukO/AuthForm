@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AuthForm/static/css/main.c58e491b.chunk.css",
+    "main.css": "/AuthForm/static/css/main.c50a0fd9.chunk.css",
     "main.js": "/AuthForm/static/js/main.edb9023a.chunk.js",
     "main.js.map": "/AuthForm/static/js/main.edb9023a.chunk.js.map",
     "runtime-main.js": "/AuthForm/static/js/runtime-main.53d3cd3e.js",
@@ -8,14 +8,14 @@
     "static/js/2.a8701767.chunk.js": "/AuthForm/static/js/2.a8701767.chunk.js",
     "static/js/2.a8701767.chunk.js.map": "/AuthForm/static/js/2.a8701767.chunk.js.map",
     "index.html": "/AuthForm/index.html",
-    "static/css/main.c58e491b.chunk.css.map": "/AuthForm/static/css/main.c58e491b.chunk.css.map",
+    "static/css/main.c50a0fd9.chunk.css.map": "/AuthForm/static/css/main.c50a0fd9.chunk.css.map",
     "static/js/2.a8701767.chunk.js.LICENSE.txt": "/AuthForm/static/js/2.a8701767.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/AuthForm/static/media/Microsoft.7017a8f9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.53d3cd3e.js",
     "static/js/2.a8701767.chunk.js",
-    "static/css/main.c58e491b.chunk.css",
+    "static/css/main.c50a0fd9.chunk.css",
     "static/js/main.edb9023a.chunk.js"
   ]
 }
