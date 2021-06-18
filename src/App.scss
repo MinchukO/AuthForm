@@ -106,33 +106,28 @@ a:hover {
 }
 
 .form__separator {
-  position: relative;
-  margin-bottom: 14px;
-  @include font ("Inter", "400", "18px");
-  color: #8C93A3;
-  line-height: 28px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 14px;
+    line-height: 28px;
+    @include font ("Inter", "400", "18px");
+    color: #8C93A3;
 }
 
-.form__separator::before,
-.form__separator::after {
-  content: "";
-  display: inline-block;
-  position: absolute;
-  top: 50%;
-  height: 2px;
-  color: #E2E9F3;
-  background-color: #E2E9F3;
-  border-radius: 1px;
+.form__separator::before, .form__separator::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: #E2E9F3;
+    border-radius: 1px;
 }
 
 .form__separator::before {
-  left: 0;
-  padding-right: 100px;
+    margin-right: 10px;
 }
 
 .form__separator::after {
-  right: 0;
-  padding-right: 100px;
+    margin-left: 10px;
 }
 
 .form-input {
